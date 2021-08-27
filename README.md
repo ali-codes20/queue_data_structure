@@ -1,1 +1,1 @@
-# queue_data_structure
+We use two classes of "Node" and "Queue" to construct and linear data structure. We'll use "enqueue", "dequeue" and "peak" methods to customise our data structure. By using maximum size, our data structure is bounded. 
